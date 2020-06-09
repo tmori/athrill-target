@@ -3,7 +3,7 @@ This repository has been moved to [toppers](https://github.com/toppers/) Organiz
 Please refer the following repos from now, and send Issues/PRs to them.
 
 注意:  
-本リポジトリは [toppers/athrill](https://github.com/toppers/athrill) に移動し，Archiveに設定しました．今後はここでの管理・更新は行いません．  
+本リポジトリは [toppers](https://github.com/toppers/) Organization に移動し，Archiveに設定しました．今後はここでの管理・更新は行いません．  
 今後の開発状況やIssue・PRのフィードバックは，下記リポジトリを参照してください．
 
   * https://github.com/toppers/athrill-target-v850e2m
